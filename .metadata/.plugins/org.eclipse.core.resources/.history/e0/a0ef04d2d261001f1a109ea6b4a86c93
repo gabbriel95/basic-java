@@ -1,0 +1,4 @@
+
+public class ManejoConsola {
+	public static void main(String[]args) {}
+}
